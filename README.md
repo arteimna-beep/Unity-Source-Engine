@@ -15,7 +15,7 @@ Here i gonna tell you how to control thus package and make your maps looks like 
 - Change Map resolution depending on how big your map is, to not get 
   terrible shadows.
 
-         --
+         
 
 Please you should know that its just a replica of source engine graphic, not actual source graphic, means that source and this graphic looks kinda same but the still
 have differences, IF YOU GOT NICE GRAPHIC LOOKING LIKE IN GS OR S1 PLEASE DM ME IN
